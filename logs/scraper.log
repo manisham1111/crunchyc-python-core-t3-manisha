@@ -1,0 +1,11 @@
+2026-11-02 12:15:06,267 - INFO - Fetching page: https://books.toscrape.com/
+2026-11-02 12:15:10,127 - INFO - Fetching page: https://books.toscrape.com/catalogue/page-2.html
+2026-11-02 12:15:13,746 - INFO - Fetching page: https://books.toscrape.com/catalogue/page-3.html
+2026-11-02 12:15:17,548 - INFO - Fetching page: https://books.toscrape.com/catalogue/page-4.html
+2026-11-02 12:15:21,303 - INFO - Fetching page: https://books.toscrape.com/catalogue/page-5.html
+2026-11-02 12:15:25,000 - INFO - Fetching page: https://books.toscrape.com/catalogue/page-6.html
+2026-11-02 12:15:28,791 - INFO - Fetching page: https://books.toscrape.com/catalogue/page-7.html
+2026-11-02 12:15:32,588 - INFO - Fetching page: https://books.toscrape.com/catalogue/page-8.html
+2026-11-02 12:15:36,383 - INFO - Fetching page: https://books.toscrape.com/catalogue/page-9.html
+2026-11-02 12:15:40,158 - INFO - Fetching page: https://books.toscrape.com/catalogue/page-10.html
+2026-11-02 12:15:43,951 - INFO - Scraping completed: 200 books
